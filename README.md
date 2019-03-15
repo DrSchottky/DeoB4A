@@ -6,4 +6,4 @@ To deobfuscate a string you need:
 * Key (from decompiled code)
 * package (fom AndroidManifest)
 * versionName (fom AndroidManifest)
-* codename (fom AndroidManifest)
+* versionCode (fom AndroidManifest)
